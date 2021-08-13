@@ -1,0 +1,1 @@
+{"columns": ["Id", "WeekofPurchase", "StoreID", "PriceCH", "PriceMM", "DiscCH", "DiscMM", "SpecialCH", "SpecialMM", "LoyalCH", "SalePriceMM", "SalePriceCH", "PriceDiff", "Store7", "PctDiscMM", "PctDiscCH", "ListPriceDiff", "STORE"], "data": [[1, 237, 1, 1.75, 1.99, 0.0, 0.0, 0, 0, 0.5, 1.99, 1.75, 0.24, "No", 0.0, 0.0, 0.24, 1]]}
